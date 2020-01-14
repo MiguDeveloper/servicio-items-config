@@ -1,3 +1,3 @@
-# Properties para la confuracion
+# Properties para la configuración
  
- El application.properties debe tener este nombre ya que de esta forma queda compartida para todos los microservicios tanto para Oauth y Zuul
+- application.properties : debe tener este nombre ya que de esta forma queda compartida para todos los microservicios tanto para Oauth y Zuul
